@@ -1,0 +1,8 @@
+E:\C#\Exercises\User Validation app\User Validation app\bin\Debug\User Validation app.exe.config
+E:\C#\Exercises\User Validation app\User Validation app\bin\Debug\User Validation app.exe
+E:\C#\Exercises\User Validation app\User Validation app\bin\Debug\User Validation app.pdb
+E:\C#\Exercises\User Validation app\User Validation app\obj\Debug\User Validation app.csproj.AssemblyReference.cache
+E:\C#\Exercises\User Validation app\User Validation app\obj\Debug\User Validation app.csproj.SuggestedBindingRedirects.cache
+E:\C#\Exercises\User Validation app\User Validation app\obj\Debug\User Validation app.csproj.CoreCompileInputs.cache
+E:\C#\Exercises\User Validation app\User Validation app\obj\Debug\User Validation app.exe
+E:\C#\Exercises\User Validation app\User Validation app\obj\Debug\User Validation app.pdb
